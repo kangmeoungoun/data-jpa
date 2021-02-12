@@ -1,13 +1,13 @@
-##### 예제 도메인 모델
-### 예제 도메인 모델과 동작확인
+##### 공통 인터페이스 기능
+### 순수 JPA 기반 리포지토리 만들기
 
-![image](https://user-images.githubusercontent.com/40969203/107711550-2fdccf00-6d0b-11eb-9628-87ecefc3f0d1.png)
-![image](https://user-images.githubusercontent.com/40969203/107711567-366b4680-6d0b-11eb-95eb-3eff2db8841a.png)
-![image](https://user-images.githubusercontent.com/40969203/107711575-3a976400-6d0b-11eb-875b-e0824649a718.png)
-![image](https://user-images.githubusercontent.com/40969203/107711587-3ec38180-6d0b-11eb-9272-1c225898e7ff.png)
-![image](https://user-images.githubusercontent.com/40969203/107711596-42570880-6d0b-11eb-82ad-c440e97e3fb6.png)
-![image](https://user-images.githubusercontent.com/40969203/107711605-4551f900-6d0b-11eb-8d95-ae03799fd587.png)
-![image](https://user-images.githubusercontent.com/40969203/107711611-48e58000-6d0b-11eb-81d7-bcf8376a5963.png)
-![image](https://user-images.githubusercontent.com/40969203/107711634-500c8e00-6d0b-11eb-9b7d-2109c478b53d.png)
-![image](https://user-images.githubusercontent.com/40969203/107711644-53077e80-6d0b-11eb-8e3b-39621e31230d.png)
-
+![image](https://user-images.githubusercontent.com/40969203/107715633-13449500-6d13-11eb-909d-6cbe62370e8f.png)
+![image](https://user-images.githubusercontent.com/40969203/107715642-1770b280-6d13-11eb-939f-af658b9f8353.png)
+![image](https://user-images.githubusercontent.com/40969203/107715646-1b043980-6d13-11eb-9566-9c78f67dbc03.png)
+![image](https://user-images.githubusercontent.com/40969203/107715654-1dff2a00-6d13-11eb-8f01-8d8dc43fd229.png)
+![image](https://user-images.githubusercontent.com/40969203/107715660-20fa1a80-6d13-11eb-8b97-5369adabc5a6.png)
+![image](https://user-images.githubusercontent.com/40969203/107715669-26576500-6d13-11eb-9c1c-367d855e76f8.png)
+![image](https://user-images.githubusercontent.com/40969203/107715683-2c4d4600-6d13-11eb-9b69-2b27929db115.png)
+![image](https://user-images.githubusercontent.com/40969203/107715689-2f483680-6d13-11eb-8cd9-e2b2a07b8d3c.png)
+![image](https://user-images.githubusercontent.com/40969203/107715707-35d6ae00-6d13-11eb-9a08-400523481d53.png)
+![image](https://user-images.githubusercontent.com/40969203/107715714-38d19e80-6d13-11eb-9f36-c1df530efb83.png)
