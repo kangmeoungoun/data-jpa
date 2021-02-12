@@ -1,6 +1,5 @@
 ##### 쿼리 메소드 기능
-### @Query, 값, DTO 조회하기
+### 파라미터 바인딩
 
-![image](https://user-images.githubusercontent.com/40969203/107746750-b02a2100-6d59-11eb-974c-f4f459a5e8ce.png)
-![image](https://user-images.githubusercontent.com/40969203/107746755-b3bda800-6d59-11eb-9858-c25753fe091b.png)
-![image](https://user-images.githubusercontent.com/40969203/107746762-b6b89880-6d59-11eb-9739-323d46b2a1a8.png)
+![image](https://user-images.githubusercontent.com/40969203/107747460-cbe1f700-6d5a-11eb-8c2b-3ca1dbd115a3.png)
+![image](https://user-images.githubusercontent.com/40969203/107747476-d13f4180-6d5a-11eb-8f46-49382c20ff4e.png)
