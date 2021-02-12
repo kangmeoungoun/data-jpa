@@ -1,6 +1,6 @@
 ##### 쿼리 메소드 기능
-### @Query, 리포지토리 메소드에 쿼리 정의하기
+### @Query, 값, DTO 조회하기
 
-##### 실무에서 자주 사용.
-##### 애플리케이션 실행시점에 문법에러를 알수있다.
-![image](https://user-images.githubusercontent.com/40969203/107743002-71916800-6d53-11eb-9819-60b13a07bf6d.png)
+![image](https://user-images.githubusercontent.com/40969203/107746750-b02a2100-6d59-11eb-974c-f4f459a5e8ce.png)
+![image](https://user-images.githubusercontent.com/40969203/107746755-b3bda800-6d59-11eb-9858-c25753fe091b.png)
+![image](https://user-images.githubusercontent.com/40969203/107746762-b6b89880-6d59-11eb-9739-323d46b2a1a8.png)
