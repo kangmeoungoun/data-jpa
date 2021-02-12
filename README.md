@@ -1,5 +1,8 @@
 ##### 쿼리 메소드 기능
-### 파라미터 바인딩
+### 반환 타입
 
-![image](https://user-images.githubusercontent.com/40969203/107747460-cbe1f700-6d5a-11eb-8c2b-3ca1dbd115a3.png)
-![image](https://user-images.githubusercontent.com/40969203/107747476-d13f4180-6d5a-11eb-8f46-49382c20ff4e.png)
+jpa 는 singleresult 결과 없을시  noresultException 이 터지는데
+data-jpa 는 결과 없으면 null 반환
+
+![image](https://user-images.githubusercontent.com/40969203/107749382-d782ed00-6d5d-11eb-953f-7940430403f2.png)
+![image](https://user-images.githubusercontent.com/40969203/107749390-dbaf0a80-6d5d-11eb-8467-21cabb71d00b.png)
