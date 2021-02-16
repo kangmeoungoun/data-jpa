@@ -1,9 +1,6 @@
 ##### 나머지 기능들 --이기능들은 실무에서 잘 쓰지 않는다.
-### Specifications (명세)
-
-![image](https://user-images.githubusercontent.com/40969203/107998885-66775a00-7029-11eb-8645-f44188dfe015.png)
-![image](https://user-images.githubusercontent.com/40969203/107998892-6a0ae100-7029-11eb-8d2e-ab4d0036ee9d.png)
-![image](https://user-images.githubusercontent.com/40969203/107998895-6d05d180-7029-11eb-9ff4-8b2661e9e4e7.png)
-![image](https://user-images.githubusercontent.com/40969203/107998902-7131ef00-7029-11eb-9feb-52b014727927.png)
-![image](https://user-images.githubusercontent.com/40969203/107998907-73944900-7029-11eb-8789-44d381e1c26f.png)
-![image](https://user-images.githubusercontent.com/40969203/107998910-7727d000-7029-11eb-8ed7-1057ababa32f.png)
+### Query By Example
+![image](https://user-images.githubusercontent.com/40969203/108060850-ceb25400-709a-11eb-98e9-71abb2765472.png)
+![image](https://user-images.githubusercontent.com/40969203/108060856-d245db00-709a-11eb-8e3a-967e33d306da.png)
+![image](https://user-images.githubusercontent.com/40969203/108060867-d5d96200-709a-11eb-90ea-f0f14e0ebce4.png)
+![image](https://user-images.githubusercontent.com/40969203/108060890-de319d00-709a-11eb-949e-ac2b42af1801.png)
